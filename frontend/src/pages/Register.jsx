@@ -78,10 +78,10 @@ const Register = () => {
                             value={role}
                             onChange={(e) => setRole(e.target.value)}
                         >
-                            <option value="Dispatcher">Dispatcher</option>
-                            <option value="Safety Officer">Safety Officer</option>
-                            <option value="Financial Analyst">Financial Analyst</option>
-                            <option value="Manager">Manager</option>
+                            <option value="Dispatcher">Dispatcher...</option>
+                            <option value="Safety Officer">Safety... </option>
+                            <option value="Financial Analyst">Financial Analyst...</option>
+                            <option value="Manager">Manager...</option>
                         </select>
                     </div>
 
@@ -93,7 +93,7 @@ const Register = () => {
                     </button>
 
                     <div className="mt-6 text-center text-sm text-gray-600 border-t pt-4">
-                        Already have an account?{' '}
+                        Already have an account???{' '}
                         <button
                             type="button"
                             onClick={() => navigate('/login')}
