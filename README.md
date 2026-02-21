@@ -1,8 +1,17 @@
-# FleetFlow - Modular Fleet & Logistics Management System
+# 🚛 FleetFlow - Hackathon Submission
 
-A centralized, rule-based digital platform that manages vehicles, drivers, trips, maintenance, fuel, and operational analytics. Built with the MERN stack (MongoDB, Express, React, Node.js) and Tailwind CSS.
+**FleetFlow** is a modular, rule-based digital platform for Fleet & Logistics Management.  
+*Built for the Hackathon by a passionate team of developers!*
 
-## 🚀 Features
+## 💡 The Problem
+Managing a fleet of vehicles involves juggling multiple disjointed systems: driver schedules, vehicle maintenance, fuel costs, and dispatching. Disorganized logistics lead to high operational overhead and safety compliance risks.
+
+## 🎯 Our Solution
+FleetFlow centralizes these operations into a single platform with strict **Role-Based Access Control (RBAC)**. By ensuring that Dispatchers, Safety Officers, and Financial Analysts see only what they need to, FleetFlow automates state management, prevents human error, and provides real-time ROI analytics.
+
+---
+
+## 🚀 Key Features
 - **Role-Based Access Control**: Manager, Dispatcher, Safety Officer, Financial Analyst.
 - **Vehicle Registry**: Manage fleet, capacity, and current statuses.
 - **Driver Management**: Track licenses, expiry dates, and driver statuses.
@@ -75,8 +84,10 @@ npm run dev
 Open your browser and navigate to the provided Vite URL (usually `http://localhost:5173`).
 Login with `manager@fleetflow.com` / `password123` to access all features.
 
-## 🤝 Contributors
-This is a collaborative project developed by:
-- [Nandana Silju (@nandanasilju)](https://github.com/nandanasilju)
-- [Pavithra Saji (@Pavithra-Saji)](https://github.com/Pavithra-Saji)
-- [Sahala Mariyam (@sahalamariyam)](https://github.com/sahalamariyam)
+## 🏆 Hackathon Team
+This project was brainstormed, designed, and developed by:
+- **[Nandana Silju (@nandanasilju)](https://github.com/nandanasilju)**
+- **[Pavithra Saji (@Pavithra-Saji)](https://github.com/Pavithra-Saji)**
+- **[Sahala Mariyam (@sahalamariyam)](https://github.com/sahalamariyam)**
+
+> *We had a blast building this during the hackathon! Feel free to explore the repository and checkout our commits.*
