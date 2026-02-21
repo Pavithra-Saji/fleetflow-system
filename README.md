@@ -74,3 +74,9 @@ npm run dev
 ### 4. Access the App
 Open your browser and navigate to the provided Vite URL (usually `http://localhost:5173`).
 Login with `manager@fleetflow.com` / `password123` to access all features.
+
+## 🤝 Contributors
+This is a collaborative project developed by:
+- [Nandana Silju (@nandanasilju)](https://github.com/nandanasilju)
+- [Pavithra Saji (@Pavithra-Saji)](https://github.com/Pavithra-Saji)
+- [Sahala Mariyam (@sahalamariyam)](https://github.com/sahalamariyam)
